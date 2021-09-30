@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Base {
+
+        public static void main(String[] args) {
+            Double num1, num2, num3, res, resf;
+            Scanner s = new Scanner(System.in);
+            System.out.println("----------\nnum1 - num2 \nnum3 - Resultado\n----------");
+            System.out.println("Introduza o valor de num1:");
+            num1 = s.nextDouble();
+            System.out.println("Introduza o valor de num2");
+            num2 = s.nextDouble();
+            System.out.println("Introduza o valor de num3");
+            num3 = s.nextDouble();
+            res = num2 * num3;
+            resf = res / num1;
+            System.out.println("O resultado é " + resf);
+        }
+    }
