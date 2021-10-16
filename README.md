@@ -1,4 +1,4 @@
-Calculadora de Regra de Três Simples;
+# Calculadora de Regra de Três Simples
 
 ![alt text](https://cdn.discordapp.com/attachments/526845054699044866/898805235743621150/Screenshot_1.png)
 
